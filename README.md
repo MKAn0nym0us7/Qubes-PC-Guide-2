@@ -109,6 +109,11 @@ Send Computer To Customer And Send Charger Lindy Port Blocker Keys And Password 
 
 https://minifree.org/
 
+
 Bitcoin Donation
 
 37cx9ig2PNANMjnD9dopeX3uqrYqAoy2JR
+
+Monero Donation
+
+4AHVoG2iikrMeSy4Xgnjd4Mkig6TzCzgEUFpn2MxuoLJFsDhb4kPdiWgyhyMtnbPRafW1psEnpRWs6sgwuJZkBxvSuRmrVB
